@@ -1,4 +1,4 @@
-# Internship-task2
+# Internship-task1
 Hotel System for reservatiom
 # Hotel Reservation System
 
